@@ -30,8 +30,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" width="52" alt="intellij logo"  />
 </div>
 
-###
-
- <img src="https://raw.githubusercontent.com/itstoony/itstoony/blob/output/snake.svg" alt="Snake animation" />
-
-###
