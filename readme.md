@@ -59,8 +59,8 @@
 
 <p align="center">
 <a href="https://github.com/itstoony">
-<img src="https://github-readme-stats.vercel.app/api?username=LeoGuedex&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="400"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=LeoGuedex&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="407"  alt="0xabdulkhalid"/>
+<img src="https://github-readme-stats.vercel.app/api?username=itstoony&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="400"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=itstoony&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="407"  alt="0xabdulkhalid"/>
 </a>
 </p>
 
