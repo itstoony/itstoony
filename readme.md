@@ -71,7 +71,7 @@
 <p align="center"><b> Let's Connect..!</b><img src="https://gifs.eco.br/wp-content/uploads/2022/07/gifs-de-aperto-de-mao-14.gif" width ="80"></p>
 
 <p align="center">
-<a href="https://www.linkedin.com/intony-rene/"><img src = "https://img.shields.io/badge/linkedin-%230077B5.svg?style=Plastic&logo=linkedin&logoColor=white"></picture></a>
+<a href="https://www.linkedin.com/in/tony-rene-6a5442187/"><img src = "https://img.shields.io/badge/linkedin-%230077B5.svg?style=Plastic&logo=linkedin&logoColor=white"></picture></a>
 </p>
 ---
 
