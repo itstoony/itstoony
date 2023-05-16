@@ -30,6 +30,10 @@
 &emsp;
 <a><img src = "https://img.shields.io/badge/JWT-black?style=Plastic&logo=JSON%20web%20tokens"></a>
 &emsp;
+<a><img src = "https://img.shields.io/badge/docker-%230db7ed.svg?style=Plastic&logo=docker&logoColor=white"></a>
+&emsp;
+<a><img src = "https://img.shields.io/badge/Rabbitmq-FF6600?style=Plastic&logo=rabbitmq&logoColor=white"></a>
+&emsp;
 <a><img src = "https://img.shields.io/badge/Postman-FF6C37?style=Plastic&logo=postman&logoColor=white"></a>
 &emsp;
 <a><img src = "https://img.shields.io/badge/Insomnia-black?style=Plastic&logo=insomnia&logoColor=5849BE"></a>
@@ -76,5 +80,5 @@
 ---
 
 <br>
-Last Edited on: 13/01/2023
+Last Edited on: 16/05/2023
 
